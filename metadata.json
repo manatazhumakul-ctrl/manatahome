@@ -1,0 +1,6 @@
+{
+  "name": "MANATAHOME | Lifestyle & Home Essentials",
+  "description": "Your Dream Home, Our Passion. Practical home products, beauty accessories, and self-care essentials for modern living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
